@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Exam August</string>
+    <string name="str_furniture">Furniture</string>
+    <string name="str_4_1">4.1</string>
+    <string name="str_discount">59% Off</string>
+    <string name="str_product_name">"Wow A New Apple Clder Vineger 150ml "</string>
+    <string name="sar_2450">SAR 2450</string>
+    <string name="add">Add</string>
+    <string name="product_details">Product Details Product Details Product Details Product Details Product Details</string>
+    <string name="sar_1340">SAR 1340</string>
+    <string name="my_cart">My Cart</string>
+    <string name="basket_subtotal">Basket SubTotal</string>
+    <string name="_2_items">(2 Items)</string>
+    <string name="proceed_to_checkout">proceed to checkout</string>
+    <string name="str_item">(0 item)</string>
+    <string name="product_long_details">Product Long Details</string>
+    <string name="_15_reviews">(15 reviews)</string>
+    <string name="price">Price:</string>
+    <string name="mrp">M.R.P</string>
+    <string name="_24_000">24,000</string>
+    <string name="_31_000">31,000</string>
+    <string name="you_save">You Save</string>
+    <string name="_600_22">600(22%)</string>
+    <string name="save">Save</string>
+</resources>
